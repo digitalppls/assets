@@ -1,0 +1,22 @@
+{
+    "name": "Meeet Coin",
+    "type": "BEP20",
+    "symbol": "EEE",
+    "decimals": 18,
+    "website": "https://meeetapp.com/",
+    "description": "MEEET is a geolocation service that allows users who are near each other to meet on the fly and interact.
+It is the perfect app for those who have come to an event and want to socialize, for those who have moved to a new city and want to make friends quickly, and even just for finding an interesting conversation partner in a café or restaurant.
+MEEET can allow you to look for someone to chat with here and now, at any time, anywhere.
+We firmly believe that offline communication and acquaintances are much more impactful than online ones.NFTs via P2P deals; participate in cool INOs; connecting Metaverses, games and marketplaces; maximize value and fun throughout the voyage.",
+    "explorer": "https://bscscan.com/token/0x0000000000000000000000000000000000000EEE",
+    "status": "active",
+    "id": "0x0000000000000000000000000000000000000EEE",
+    "links": [
+        
+    ],
+    "tags": [
+        "nft",
+        "earn",
+        "social_network"
+    ]
+}
